@@ -1,5 +1,4 @@
 # ml-first-principles
-# ML Learning Lab
 
 This repository documents my journey of learning Machine Learning from first principles.
 
