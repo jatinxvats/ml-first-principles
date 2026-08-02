@@ -12,6 +12,14 @@ The goal was to understand the strengths, weaknesses, assumptions, and failure m
 
 ---
 
+## Interactive Notebook
+
+The complete analysis, visualizations, and model comparisons are available on Kaggle:
+
+**Kaggle Notebook:** https://www.kaggle.com/code/jatinxvats/comparing-classical-ml-algorithms-on-the-same-data
+
+---
+
 ## Research Question
 > How do Linear Regression, Logistic Regression, and Decision Trees differ when solving the same prediction problem?
 
