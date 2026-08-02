@@ -29,5 +29,7 @@ Each project follows the same philosophy:
 
 ## Projects
 
-Projects will be added as I progress through my ML journey.
+* Case Study 1
+Comparing Wine Quality: A comparative study of classical machine learning models
+https://github.com/jatinxvats/ml-first-principles/tree/5bef093f9e44504d82ae193d171c827231024593/01_wine_quality_comparison
 
