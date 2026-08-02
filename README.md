@@ -32,5 +32,6 @@ Each project follows the same philosophy:
 * Wine Quality prediction: A comparative study of classical machine learning models
   
 Code: https://github.com/jatinxvats/ml-first-principles/tree/5bef093f9e44504d82ae193d171c827231024593/01_wine_quality_comparison
+
 Kaggle: https://www.kaggle.com/code/jatinxvats/comparing-classical-ml-algorithms-on-the-same-data
 
