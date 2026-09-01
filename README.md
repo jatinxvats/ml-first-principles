@@ -18,12 +18,9 @@ Each project follows the same philosophy:
 * ✅ Logistic Regression
 * ✅ Decision Trees
 * ✅ Random Forest
-* ⬜ Support Vector Machines
-* ⬜ K-Nearest Neighbors
-* ⬜ PCA
 * ✅ Gradient Boosting
-* ⬜ Neural Networks
-* ⬜ CNNs
+* ✅ Neural Networks
+* ✅ CNNs
 * ⬜ RNNs
 * ⬜ Transformers
 
