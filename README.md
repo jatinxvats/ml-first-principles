@@ -1,28 +1,59 @@
 # ml-first-principles
 
-This repository documents my journey of learning Machine Learning from first principles.
+## What is this Repository?
 
-The goal is not simply to train models, but to understand the mathematics, intuition, assumptions, and practical behavior behind every algorithm.
+This repository documents my journey of curiously learning Machine Learning from first principles. This is where I learn, implement, fail, and improve.
+
+The goal is not simply to train models, but to understand the mathematics, intuition, assumptions, edge cases, and practical behavior
+behind every algorithm.
 
 Each project follows the same philosophy:
 
 * Understand the algorithm
-* Implement it (where appropriate)
+* Implement it
 * Apply it to a real dataset
 * Compare it with other methods
 * Reflect on what worked and why
+  
 
-## Progress
+## Current Progress Chart
 
-* ✅ Linear Regression
-* ✅ Logistic Regression
-* ✅ Decision Trees
-* ✅ Random Forest
-* ✅ Gradient Boosting
-* ✅ Neural Networks
-* ✅ CNNs
-* ⬜ RNNs
-* ⬜ Transformers
+### 01 — Foundations
+- ✅ Linear Regression
+- ✅ Logistic Regression
+- ✅ Decision Trees
+
+### 02 — Classical Machine Learning
+- ✅ Gradient Descent
+- ✅ Regularization
+- ✅ Gradient Boosting
+- ✅ Random Forest
+- ✅ Bias–Variance Tradeoff
+- ✅ Cross-Validation
+- ✅ Evaluation Metrics
+
+### 03 — Neural Networks
+- ✅ Perceptron
+- ✅ Neural Networks
+- ✅ Backpropagation
+- ✅ Activation Functions
+- ✅ Loss Functions
+- ✅ Optimization
+- ✅ Regularization
+- ✅ PyTorch
+- ✅ MNIST Classification
+- ✅ Convolutional Neural Networks (CNNs)
+
+### 04 — Natural Language Processing (NLP)
+- ⬜ Word Embeddings
+- ⬜ Word2Vec
+- ⬜ Sequence Models
+- ⬜ RNNs
+- ⬜ LSTMs
+- ⬜ Attention
+- ⬜ Transformers
+- ⬜ Large Language Models
+
 
 ## Projects
 
