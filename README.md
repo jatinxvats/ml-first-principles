@@ -7,7 +7,7 @@ This repository documents my journey of curiously learning Machine Learning from
 The goal is not simply to train models, but to understand the mathematics, intuition, assumptions, edge cases, and practical behavior
 behind every algorithm.
 
-Each project follows the same philosophy:
+Each algorithm is implemented by following the same rules:
 
 * Understand the algorithm
 * Implement it
@@ -54,12 +54,4 @@ Each project follows the same philosophy:
 - ⬜ Transformers
 - ⬜ Large Language Models
 
-
-## Projects
-
-* Wine Quality prediction: A comparative study of classical machine learning models
-  
-Code: https://github.com/jatinxvats/ml-first-principles/tree/5bef093f9e44504d82ae193d171c827231024593/01_wine_quality_comparison
-
-Kaggle: https://www.kaggle.com/code/jatinxvats/comparing-classical-ml-algorithms-on-the-same-data
 
